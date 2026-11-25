@@ -2,6 +2,10 @@
 
 A simple 2-degree-of-freedom robot arm project built with Arduino and motor control software.
 
+<p align="center">
+  <img src="assets/IMG_20260203_143230231.jpg" alt="2-DOF robot arm" width="600">
+</p>
+
 ## Demo
 
 - [Forward kinematics demo](https://youtu.be/IrzVEaenZzY)
